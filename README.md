@@ -58,4 +58,4 @@ If you have trouble, see the [Wiki](https://github.com/open-source-parsers/jsonc
 ## License
 
 See the `LICENSE` file for details. In summary, JsonCpp is licensed under the
-MIT license, or public domain if desired and recognized in your jurisdiction.
+MIT license, or public domain if desired and recognized in your jurisdiction.good
